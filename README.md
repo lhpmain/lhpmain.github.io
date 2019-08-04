@@ -18,6 +18,10 @@
 ## 演示地址
 [https://github-laziji.github.io][1]
 
+
+## 本站地址
+[https://lhpmain.github.io][4]
+
 ## 项目源码
 [https://github.com/GitHub-Laziji/vblog][3]
 
@@ -106,3 +110,4 @@
   [1]: https://github-laziji.github.io
   [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
   [3]: https://github.com/GitHub-Laziji/vblog
+  [4]: https://lhpmain.github.io
