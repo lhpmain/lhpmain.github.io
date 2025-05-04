@@ -39,8 +39,8 @@ jobs:
 
       - name: 设置Git配置
         run: |
-          git config --global user.name 'wyxdlz54188'
-          git config --global user.email 'lizi54188@outlook.com'
+          git config --global user.name 'lhpmain'
+          git config --global user.email 'lhpmain@126.com'
 
       - name: 上传GitHub pages
         env:
@@ -51,6 +51,6 @@ jobs:
           git init
           git add .
           git commit -m "Create by workflows"
-          git remote add origin https://${{ secrets.GH_TOKEN }}@github.com/wyxdlz54188/wyxdlz54188.github.io.git
+          git remote add origin https://${{ secrets.GH_TOKEN }}@github.com/lhpmain/lhpmain.github.io.git
           git push origin HEAD:gh-pages -f
 
