@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 李子的博客
-subtitle: ''
-description: ''
+title: 网络人的博客
+subtitle: '网络人的博客'
+description: '网络人的博客'
 keywords:
-author: wyxdlz54188
+author: 网络人
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://bloglizi.dpdns.org
+url: https://bk.lhpcn.dpdns.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,12 +102,12 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/wyxdlz54188/wyxdlz54188.github.io.git
+  repository: https://github.com/lhpmain/lhpmain.github.io.git
   branch: gh-pages
 
 # hexo-admin authentification
 admin:
-  username: wyxdlz54188
+  username: lhpmain
   password_hash: $2a$10$4pwEGSjfyxtZ1zBdvNRXYezI.RRLPuDyykQJfRsf5kUTrfujEQwna
   secret: my super secret phrase
   marked:
